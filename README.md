@@ -1,6 +1,6 @@
 <!--luizera-36/luizera-36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# I love programming 💻 🚀
+## I love programming 💻 🚀
 
 ### I'll let you know a little about me 😉
 
