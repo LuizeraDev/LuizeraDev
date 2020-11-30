@@ -6,7 +6,6 @@
 
 - 🎓 I’ve discovered the world of technology when I was 16 on my first technical course in **Etec Doutora Ruth Cardoso / São Vicente**.
 - 💼 I’ve been looking for a good company to develop my programming abilities.
-- 🚀 I’m done to travel to everywhere if my services are necessary.
 - 🧠 I’m always looking for self development.
 - 😊 I’m good at leading with pressure.
 - 🔶 My favorite color is **orange**.
