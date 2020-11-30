@@ -2,7 +2,7 @@
 
 ## I love programming 💻 🚀
 
-### I'll let you know a little about me 😉
+### A little about me 😉
 
 - 🎓 I’ve discovered the world of technology when I was 16 on my first technical course in **Etec Doutora Ruth Cardoso / São Vicente**.
 - 💼 I’ve been looking for a good company to develop my programming abilities.
