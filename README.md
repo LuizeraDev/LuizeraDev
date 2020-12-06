@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+<p align="center"> 
   Eu sou um jovem <strong>desenvolvedor.</strong><br>
   Sou amante de PHP e me atualmente me aventuro estudando React e React Native.
 </p>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Contato: ⤵️
+  💌 Contatos ⤵️
 </p>
 
 <p align="left">
