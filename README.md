@@ -1,21 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Eu sou um jovem <strong>desenvolvedor</strong> apaixonado por tecnologia.<br>
-  Sou amante de PHP e me atualmente me aventuro estudando React e React Native.<br>
+  I'm a young <strong>developer</strong> who get in love with technology since I was 16 years old.<br>
+  I love PHP and nowadays I adventure myself studying React, React Native and Node.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C, C++, C#, JS, PHP, Python.</strong>
+  🦄 Languages: <strong>C, C++, C#, JS, PHP, Python.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Android Studio.</strong>
+  💼 Tools: <strong>Visual Studio Code, Android Studio.</strong>
 </p>
 
 
 <p align="left">
-  💌 Contatos ⤵️
+  💌 Contact me ⤵️
 </p>
 
 <p align="left">
