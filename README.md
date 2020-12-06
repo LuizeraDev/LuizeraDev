@@ -13,7 +13,7 @@
   💼 Ferramentas: <strong>Visual Studio Code, Android Studio.</strong>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=luizera-36&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=luizera-36&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 <p align="left">
   💌 Contatos ⤵️
