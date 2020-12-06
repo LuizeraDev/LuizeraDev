@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm a younger <strong>developer</strong> who get in love with technology since I was 16 years old.<br><br>
+  I'm a young <strong>developer</strong> who get in love with technology since I was 16 years old.<br><br>
   I love PHP and nowadays I adventure myself studying React, React Native and Node.
 </p>
 
