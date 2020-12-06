@@ -3,7 +3,6 @@
 <p align="left"> 
   Eu sou um jovem de 18 anos e <strong>desenvolvedor.</strong><br>
   Sou amante de PHP e me atualmente me aventuro estudando React e React Native.<br>
-  Minha cor favorita é <label style="color:orange; font-weight: bold;">Laranja</label>
 </p>
 
 <p align="left">
@@ -13,6 +12,9 @@
 <p align="left">
   💼 Ferramentas: <strong>Visual Studio Code, Android Studio.</strong>
 </p>
+
+  
+![Luiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizera-36&show_icons=true)
 
 <p align="left">
   💌 Contatos ⤵️
