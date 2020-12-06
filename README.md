@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Eu sou um jovem de 18 anos e <strong>desenvolvedor.</strong><br>
+  Eu sou um jovem <strong>desenvolvedor</strong> apaixonado por tecnologia.<br>
   Sou amante de PHP e me atualmente me aventuro estudando React e React Native.<br>
 </p>
 
