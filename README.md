@@ -4,7 +4,7 @@
 
 <p align="left"> 
   I'm a young <strong>developer</strong> who get in love with technology since I was 16 years old.<br><br>
-  I love <strong>PHP</strong> and nowadays I adventure myself studying React, React Native and Node.<br><br>
+  I love <strong>PHP</strong> and nowadays I adventure myself studying React, React Native and Node.
 </p>
 
 <p align="left">
