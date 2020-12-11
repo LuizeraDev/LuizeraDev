@@ -4,18 +4,14 @@
 
 <p align="left"> 
   I'm a young <strong>developer</strong> who get in love with technology since I was 16 years old.<br><br>
-  I love PHP and nowadays I adventure myself studying React, React Native and Node.
-</p>
-<strong>C, C++, C#, JS, PHP, Python.</strong>
-<p align="left">
-  🦄 Technologies⤵️ 
+  I love <strong>PHP</strong> and nowadays I adventure myself studying React, React Native and Node.
 </p>
 
 <p align="left">
-<!--html5-->
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<!--css3-->
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  🦄 Languages ⤵️ 
+</p>
+
+<p align="left">
 <!--JavaScript-->
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <!--C, C++, C#-->
