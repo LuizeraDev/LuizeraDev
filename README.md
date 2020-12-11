@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://www.fcamara.com.br">
-    <img src="https://img.shields.io/badge/Fcamara%20-%FC6027.svg?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Fcamara%20-%23FC6027.svg?&style=for-the-badge" />
   </a>
 </p>
 
