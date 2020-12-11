@@ -6,9 +6,13 @@
   I'm a young <strong>developer</strong> who get in love with technology since I was 16 years old.<br><br>
   I love PHP and nowadays I adventure myself studying React, React Native and Node.
 </p>
+<strong>C, C++, C#, JS, PHP, Python.</strong>
+<p align="left">
+  🦄 Technologies⤵️ 
+</p>
 
 <p align="left">
-  🦄 Languages: <strong>C, C++, C#, JS, PHP, Python.</strong>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 <p align="left">
@@ -37,7 +41,4 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizera-36&layout=compact&theme=radical)](https://github.com/nathyts/github-readme-stats)
-</p>
 
