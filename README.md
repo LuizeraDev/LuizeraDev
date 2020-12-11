@@ -5,7 +5,7 @@
 <p align="left"> 
   I'm a young <strong>developer</strong> who get in love with technology since I was 16 years old.<br><br>
   I love <strong>PHP</strong> and nowadays I adventure myself studying React, React Native and Node.<br><br>
-  Nowadays I work in <img src="https://img.shields.io/badge/Fcamara%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+  Nowadays I work in <img src="https://img.shields.io/badge/Fcamara%20-%23EE4C2C.svg?&style=for-the-badge" />
 </p>
 
 <p align="left">
