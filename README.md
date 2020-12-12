@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-  🤓 Studying Now ⤵️ 
+  🤓 Studying now ⤵️ 
 </p>
 
 <p align="left">
