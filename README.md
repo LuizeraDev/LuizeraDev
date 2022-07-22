@@ -21,6 +21,8 @@
 <p align="left">
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <!--TypesScript-->
+  <img src="https://img.shields.io/badge/typescript%20-%%2300599C.svg?&style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/>
   <!--C, C++, C#-->
   <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
